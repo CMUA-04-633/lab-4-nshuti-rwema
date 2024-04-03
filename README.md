@@ -2,7 +2,7 @@
 
 The servo motor control implementation on STM32, our team adopted a comprehensive approach encapsulating both hardware and software aspects to ensure seamless operation and integration within our system. The development was structured into several key phases as described below:
 
-### Contents
+### Servo Motor Implementation
 
 > **1. Hardware Abstraction and Initial Setup:**
 
